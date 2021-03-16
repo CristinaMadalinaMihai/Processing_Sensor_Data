@@ -1,0 +1,10 @@
+Breakfast 0 day(s) 2:58:8
+Toileting 0 day(s) 2:20:34
+Grooming 0 day(s) 2:40:42
+Sleeping 5 day(s) 11:3:31
+Leaving 1 day(s) 3:44:44
+Spare_Time/TV 5 day(s) 22:28:55
+Showering 0 day(s) 1:34:9
+Snack 0 day(s) 0:6:1
+Lunch 0 day(s) 5:13:31
+
